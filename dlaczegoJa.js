@@ -1,4 +1,4 @@
-            .get('/api/users/exists', config)
+#            .get('/api/users/exists', config)
                 .success(function(result) {
                   if (username === scope.storedUsername) {
                     ngModel.$setValidity('unique', true);
