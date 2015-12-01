@@ -5,7 +5,7 @@
 
     var link = 'https://www.facebook.com/dialog/feed?' +
       'app_id=1644598365767721' +
-      '&display=page&' +
+      '&display=page&' +dfsdfs
       'caption=I%20just%20completed%20the%20' +
       challengeBlockEscapedName +
       '%20section%20on%20Free%20Code%20Camp%2E' +
