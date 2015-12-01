@@ -5,7 +5,7 @@
           return $(helpChatBtnClass).addClass('active');
         }
         return $(helpChatBtnClass).removeClass('active');
-      });
+      });dfsdf
     };
 
     $('body').append(
