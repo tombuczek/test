@@ -17,7 +17,7 @@
       activationElement: false,
       targetElement: $('#chat-embed-main')
     });
-
+adsfadsfa
     var mainChatTitleAdded = false;
     $('#chat-embed-main').on('gitter-chat-toggle', function() {
       if (mainChatTitleAdded) {
