@@ -23,6 +23,7 @@
       if (mainChatTitleAdded) {
         return null;
       }
+	fsdf
       mainChatTitleAdded = true;
 
       $('#chat-embed-main > .gitter-chat-embed-action-bar').prepend(
