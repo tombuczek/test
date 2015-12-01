@@ -3,7 +3,7 @@
       window.username :
       '';
 
-    var link = 'https://www.facebook.com/dialog/feed?' +
+    var link = 'https://www.facebook.com/dialog/feedf?' +
       'app_id=1644598365767721' +
       '&display=page&' +
       'caption=I%20just%20completed%20the%20' +
