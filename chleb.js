@@ -1,4 +1,4 @@
-var main = window.main || {};
+#var main = window.main || {};
 
 main.mapShareKey = 'map-shares';
 
