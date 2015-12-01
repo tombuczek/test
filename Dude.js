@@ -1,4 +1,4 @@
-   var challengeBlockEscapedName = challengeBlockName.replace(/\s/, '%20');
+#   var challengeBlockEscapedName = challengeBlockName.replace(/\s/, '%20');
     var username = typeof window.username !== 'undefined' ?
       window.username :
       '';
